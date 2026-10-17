@@ -1,0 +1,11 @@
+{
+  "org": "kragniz",
+  "repo": "python-etcd3",
+  "versions": [
+    {
+      "commit": "e58a899579ba416449c4e225b61f039457c8072a",
+      "tag": "",
+      "parsed_at": "2026-10-17T00:16:58.293692+00:00"
+    }
+  ]
+}
