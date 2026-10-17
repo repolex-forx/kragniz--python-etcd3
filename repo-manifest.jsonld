@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kragniz/python-etcd3/commit/e58a899579ba416449c4e225b61f039457c8072a",
       "git:hexsha": "e58a899579ba416449c4e225b61f039457c8072a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kragniz/python-etcd3/commit/8d84700adfdeeb8069a58387356e78788a8be615",
